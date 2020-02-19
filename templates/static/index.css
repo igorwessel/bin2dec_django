@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(52, 35, 97);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 250px;
+    margin-left: 35%;
+    margin-right: auto;
+    padding: 15px;
+    background-color: white;
+}
+
+.label {
+    margin: 5px;
+}
+
+#binary_label {
+    flex-grow: 0;
+}
+
+#binary_input {
+    position: relative;
+    margin-left: 5px;
+}
+
+#decimal_label {
+    flex-grow: 1;
+    margin-top: 35px;
+}
