@@ -30,3 +30,10 @@ body {
     flex-grow: 1;
     margin-top: 35px;
 }
+
+.msg-error {
+    padding: 4px;
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 15px;
+    background-color: rgba(253, 0, 0, 0.397);
+}
