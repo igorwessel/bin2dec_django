@@ -1,7 +1,8 @@
 let div_container = document.querySelector('.container')
 let binary_number = document.getElementById('binary_input')
 
-binary_number.addEventListener('keyup', (event) => {
+binary_number.addEventListener('input', (event) => {
+    console.log(binary_number.value)
     msg_error_element = msg_error()
 })
 
