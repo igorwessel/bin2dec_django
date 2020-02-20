@@ -17,9 +17,7 @@ function msg_error(input_value) {
     have_0_or_1(input_value, msg_error)
 
     if (input_value == '') {
-        if (msg_error_element != null) {
-            msg_error_element.remove()
-        }
+        msg_error_element.remove()
     }
 }
 
