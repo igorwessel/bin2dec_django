@@ -38,6 +38,7 @@ body {
     background-color: rgba(253, 0, 0, 0.397);
 }
 
-.decimal-output {
-    background-color: rgb(105, 104, 104);
+.decimal_div_output {
+    box-shadow: 0 0 1px black;
+    background-color: rgba(61, 61, 61, 0.404);
 }

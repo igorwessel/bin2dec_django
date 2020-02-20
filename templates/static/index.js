@@ -34,7 +34,7 @@ function convert(input_value) {
     }
 }
 
-//  TODO: tentando implementar conversor do decimal.
+
 function have_0_or_1(string, new_element) {
     let binary_digit = ''
     for (letter = 0; letter < string.length; letter++) {
