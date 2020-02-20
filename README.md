@@ -30,3 +30,11 @@ constraints:
 ## Bonus features
 
 - [x] ~User can enter a variable number of binary digits~
+
+# Installation
+
+Install django if you don't have
+  - pip install django
+
+Start the django application
+  - python manage.py runserver
