@@ -29,4 +29,4 @@ constraints:
 
 ## Bonus features
 
-- [] User can enter a variable number of binary digits
+- [x] ~User can enter a variable number of binary digits~
